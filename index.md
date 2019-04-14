@@ -6,8 +6,8 @@ layout: default
 
 Not much to say.
 
-# Testing
+# Contact
 
-Testing one two three.
+Email me hi (at) terencepmurray.com
 
 
