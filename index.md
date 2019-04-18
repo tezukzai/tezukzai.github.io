@@ -10,4 +10,11 @@ Not much to say.
 
 Email me hi (at) terencepmurray.com
 
+# Tip me with :zap:
+
+<!-- Beginning of tippin.me Button -->
+<div id="tippin-button" data-dest="terencepmurray"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<!-- End of tippin.me Button -->
+
 
