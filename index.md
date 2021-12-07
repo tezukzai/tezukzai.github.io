@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Not much to say.
+Not much to say!
 
 # Contact
 
